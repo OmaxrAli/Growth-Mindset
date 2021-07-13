@@ -1,33 +1,33 @@
-# Mindsets
+### Omar Abdelmajeed Ali
 
+### Amman – Jordan
 
-#### We have two types of mindsets:
-1.	**Fixed Mindset**
-2.	**Growth mindset**
+#### **Introduction**
 
-### **Fixed Mindset:**
-Is having a static mind and abilities and having no ability to change better doesn’t require anything however intelligence and talent are seen as fixed traits and can not be armed unless you’re gifted with them, suggesting that success comes from these inherent qualities alone, without the need for further development or effort.
-#### **Advantages:**
--	People with that mindset think more before making any step in their life
--	people with that mindset work carefully because they do accept failure.
-#### **Disadvantages:**
--	Do not accepting changes even if it was better
--	Do not accept failure
--	Do not try new things
--	Do not accept comments and take them personally
--	Giving Up
-### **Growth Mindset**
-Growth mindset is a way to improve your abilities and skills through practice and effort, it requires talent and inelegance for sure but even that could be gained through working hard on it. A growth mindset is synonymous with a love of learning.
-#### **Advantages:**
--	Accepting changes
--	Accepting the failure
--	Try new things
--	Accept comments
--	Working Hard 
--	Not Giving up and seeing problems as a way of improvement.
-#### **Disadvantages:**
--	Rushing into things.
--	Not thinking so deep about a situation. 
-![Mindsets](https://i2.wp.com/atlassianblog.wpengine.com/wp-content/uploads/NewGrowthMindset2.png?resize=768%2C960&ssl=1)
+I am a Software Engineering working on the field of the technology industry – Cyber machines industry.
+I prefare environments to be about Open minded environments and full of Creativity.
+Looking for Fame – Money- Helping others- Human Evolve.
+I am an evolver, minded, Creative, Calm and Skilled.
 
+#### **Experiences**
+I gained experience solving problems while studying (Study Skills) at Luminus. 
 
+I gained programming experience after studying 3 programming subjects at Luminus.
+
+I gained English speaking skills in the British Coucil.
+
+I gained experiences in using a computer while I was studying at (Business Intelligence) at Luminus.
+
+They wrote down the experiences of interacting with others in a group during my studies (Software Development Life Cycle) at Luminus.
+
+Programming langues: Java – HTML – Python – C#. 
+		
+
+I never let anyone down well I have a pretty nice flexible mind however I study new things by myself a lot about the field of (IT) and I usually think out of the box to solve problems.
+I have a pretty good knowledge about programming languages like HTML, C++ and Java and I have the motive and ability to study and know more other languages.
+The (IT) field needs a good thinking evolving mind to keep track with changes and updates and luckily, I have a creative mind to do so.
+
+Headers | Links
+------------ | -------------
+Mind Set | [Go to Mind Set]( https://omaxrali.github.io/Growth-Mindset/MindSet)
+Home Page | [Goo to Home]( https://omaxrali.github.io/Growth-Mindset/README)
