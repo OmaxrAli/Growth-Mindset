@@ -30,4 +30,5 @@ Growth mindset is a way to improve your abilities and skills through practice an
 -	Not thinking so deep about a situation. 
 ![Mindsets](https://i2.wp.com/atlassianblog.wpengine.com/wp-content/uploads/NewGrowthMindset2.png?resize=768%2C960&ssl=1)
 
+[Home](https://omaxrali.github.io/Growth-Mindset/)
 
