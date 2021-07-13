@@ -31,3 +31,4 @@ Headers | Links
 ------------ | -------------
 Mind Set | [Go to Mind Set]( https://omaxrali.github.io/Growth-Mindset/MindSet)
 Home Page | [Go to Home]( https://omaxrali.github.io/Growth-Mindset/)
+Read 02 | [GO to]( https://omaxrali.github.io/Growth-Mindset/Read02)
