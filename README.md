@@ -30,4 +30,4 @@ The (IT) field needs a good thinking evolving mind to keep track with changes an
 Headers | Links
 ------------ | -------------
 Mind Set | [Go to Mind Set]( https://omaxrali.github.io/Growth-Mindset/MindSet)
-Home Page | [Goo to Home]( https://omaxrali.github.io/Growth-Mindset/README)
+Home Page | [Go to Home]( https://omaxrali.github.io/Growth-Mindset/)
