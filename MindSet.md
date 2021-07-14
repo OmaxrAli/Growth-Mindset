@@ -30,9 +30,6 @@ Growth mindset is a way to improve your abilities and skills through practice an
 -	Not thinking so deep about a situation. 
 ![Mindsets](https://omaxrali.github.io/Reading-Notes/)
 
-<<<<<<< HEAD
-[Back to Home](https://omaxrali.github.io/Growth-Mindset/)
-=======
+
 [Home](https://omaxrali.github.io/Reading-Notes/)
 
->>>>>>> ae1460b2bcfaee32cc4c5405a201e3341c06945b
