@@ -28,7 +28,7 @@ Growth mindset is a way to improve your abilities and skills through practice an
 #### **Disadvantages:**
 -	Rushing into things.
 -	Not thinking so deep about a situation. 
-![Mindsets](https://i2.wp.com/atlassianblog.wpengine.com/wp-content/uploads/NewGrowthMindset2.png?resize=768%2C960&ssl=1)
+![Mindsets](https://omaxrali.github.io/Reading-Notes/)
 
 <<<<<<< HEAD
 [Back to Home](https://omaxrali.github.io/Growth-Mindset/)
