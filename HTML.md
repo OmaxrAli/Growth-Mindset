@@ -33,7 +33,14 @@ Example of Semantics HTML:
 + < nav >
 + < section >
 + < summary>
+<<<<<<< HEAD
 + < time >
 + < aside >
 + < details >
 + < figcaption >
+=======
+< time >
+< aside >
+< details >
+< figcaption 
+>>>>>>> cf91978fc48c4313b26cb09a589dbfcde8f7767e
