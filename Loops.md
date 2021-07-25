@@ -34,6 +34,12 @@ There are many different kinds of loops, but they all essentially do the same th
 ### Loop types in JavaScript
 ![Loops](https://media.geeksforgeeks.org/wp-content/uploads/20191023174139/1021.png)
 
+* for statement
+* while statement
+* for in
+* for of
+* do..while
+
 
 ### Loop statments
 * for statement
