@@ -577,4 +577,4 @@ A tutorial introduction to Git
 gitworkflows[7]
 An overview of recommended workflows with Git
 
-[Home](https://omaxrali.github.io/Growth-Mindset/)
+[Home](https://omaxrali.github.io/Reading-Notes/)
